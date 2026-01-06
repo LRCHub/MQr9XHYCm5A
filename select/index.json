@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミッドサマーシトラス",
+  "base_artist": "ReGLOSS",
+  "createdAt": "2026-01-06T09:24:39.564620Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミッドサマーシトラス",
+      "artist": "ReGLOSS",
+      "has_synced": false,
+      "path": "select/pl_01_ミッドサマーシトラス_ReGLOSS.txt"
+    }
+  ]
+}
